@@ -1,1 +1,3 @@
-console.log('123');
+import name from './a.js';
+
+console.log(name);
